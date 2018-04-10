@@ -24,7 +24,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-## 出力結果  
+## 出力例  
 ```
 大吉
 ```
